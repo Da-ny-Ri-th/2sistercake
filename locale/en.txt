@@ -1,0 +1,50 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_F61B0587_EEAA_1D31_41C6_C0E1E77D119E.source = https://www.linkedin.com/in/dany-rith-06549017a/
+LinkBehaviour_FD944544_EDAC_C6FC_41ED_4F671BAEBF2E.source = https://www.linkedin.com/in/dany-rith-06549017a/
+LinkBehaviour_FD945544_EDAC_C6FC_41D4_7FB2C297B162.source = https://www.pinterest.com/dany_rith/_created/
+LinkBehaviour_F614E586_EEAA_1D33_41D4_DE39518FFEC3.source = https://www.pinterest.com/dany_rith/_created/
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_C6CB4473_EEDA_33D1_41E0_A8ACC8B71D15.url = media/map_FF8505D7_EE6A_1CD1_41CF_0F7F2B56BF89_en_0.jpg
+imlevel_C6CB7473_EEDA_33D1_41C7_39A39CA3B7AE.url = media/map_FF8505D7_EE6A_1CD1_41CF_0F7F2B56BF89_en_1.jpg
+imlevel_C6CB9473_EEDA_33D1_41C8_4C64300EDEEA.url = media/map_FF8505D7_EE6A_1CD1_41CF_0F7F2B56BF89_en_2.jpg
+imlevel_C6CB8473_EEDA_33D1_41DF_554E936B18A0.url = media/map_FF8505D7_EE6A_1CD1_41CF_0F7F2B56BF89_en_3.jpg
+imlevel_C6CBB473_EEDA_33D1_41D1_3988B8CB98F8.url = media/map_FF8505D7_EE6A_1CD1_41CF_0F7F2B56BF89_en_4.jpg
+
+### Title
+map_FF8505D7_EE6A_1CD1_41CF_0F7F2B56BF89.label = Floor Plan
+
+## Skin
+
+### Button
+Button_B5551DB1_A8AE_1192_41E0_9815EC3E8FD9_mobile.label = CONTACT US
+Button_B5551DB1_A8AE_1192_41E0_9815EC3E8FD9.label = CONTACT US
+Button_BAFF9AB7_AC6D_3778_41DD_EF9D1C21D15E.label = FLOOR PLAN
+Button_BAFF9AB7_AC6D_3778_41DD_EF9D1C21D15E_mobile.label = FLOOR PLAN
+
+### Image
+Image_BEE6FED8_AC35_2F20_41D8_34B6B91DA709.url = skin/Image_BEE6FED8_AC35_2F20_41D8_34B6B91DA709_en.png
+Image_BEE6FED8_AC35_2F20_41D8_34B6B91DA709_mobile.url = skin/Image_BEE6FED8_AC35_2F20_41D8_34B6B91DA709_mobile_en.png
+
+### Multiline Text
+HTMLText_B3A95BF7_AD90_5B11_41E1_AC9050095132.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.171052631578947vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.17vw;"><B>2 Sisters Cake</B></SPAN></SPAN></DIV></div>
+HTMLText_B3A95BF7_AD90_5B11_41E1_AC9050095132_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.171052631578947vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.17vw;"><B>2 Sisters Cake</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_BD225E9E_B273_D96C_41A9_C0F962709F6A.toolTip = Fullscreen
+IconButton_BD225E9E_B273_D96C_41A9_C0F962709F6A_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 2 Sisters Cake
